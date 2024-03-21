@@ -1,6 +1,7 @@
 
 
-<img src="https://ik.imagekit.io/fwwm2nv0b6z/QMLANG_nlHrsvcRt.png?updatedAt=1711040642252" width="400">
+<img src="https://ik.imagekit.io/fwwm2nv0b6z/obs_qmlang_logo_4HYPzmazf.png?updatedAt=1711040620430" width="400">
+
 # OBS QMLANG ALPHA v.0.0.1
 
 ### Developed by Machine Intelligence & Research Division (MIRD), OBS Group Inc. in collaboration with ETH Zurich, DWave Systems Inc., Rigetti Computing Inc. 
